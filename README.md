@@ -1,4 +1,4 @@
-# Doorman Animitronic Project
+# Doorman Animatronic Project with Arduino Nano
 <img src="https://github.com/rickymedrano/Doorman/blob/master/DoormanGIF.gif" width="265" height="408" />
 
 I decided to remix the other Doorman projects on Thingiverse as they all seemed to have some sort of issue and/or instructions weren't very clear. I was able to take a combination of 3D models, code, and instructions from the other 3 Doorman projects into my own Doorman project I know is working. 
